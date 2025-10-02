@@ -6,10 +6,12 @@
 
 h1{
   font-weight: bold;
+  margin: auto;
+  text-align: center;
 }
 
 table{
-  width: 100%;
+  width: 80%;
   margin: auto;
   border-collapse: collapse;
 }
