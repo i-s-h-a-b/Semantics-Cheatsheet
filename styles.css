@@ -1,0 +1,32 @@
+*{
+  background-color: #0b132b;
+  font-family: 'Courier New', Courier, monospace;
+  color: #6fffe9;
+}
+
+h1{
+  font-weight: bold;
+}
+
+table{
+  width: 100%;
+  margin: auto;
+  border-collapse: collapse;
+}
+
+th, td{
+  border: 1px solid #3a506b;
+  padding: 20px;
+  text-align: center;
+}
+td{
+  color: #FFF;
+}
+th{
+  background-color: #1c2541;
+  color: #5bc0be;
+}
+ .code{
+  color: #6fffe9;
+  font-family: monospace;
+ }
